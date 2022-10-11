@@ -39,10 +39,11 @@ be recursively calling `advancedExponent`. Find a way to visually see how many
 times `advancedExponent` is being recursively called.
 ***********************************************************************/
 
+const exponent = require("./07-exponent");
+
 
 function advancedExponent(b, n) {
   // Your code here
-}
 
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS LINE*****************/
